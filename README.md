@@ -1,5 +1,7 @@
 POST CALL - CREATE_USER - JSON - localhost:8081/api/create
+
 POST CALL - UPDATE USER - JSON - localhost:8081/api/update => BODY SHOULD BE IN THIS FORMAT
+
 {
     "userID": "44444",
     "illness": [
